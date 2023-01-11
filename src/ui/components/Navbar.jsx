@@ -6,7 +6,7 @@ export const Navbar = () => {
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
             
             <Link 
-                className="navbar-brand"
+                className="navbar-brandy"
                 to="/marvel"
             >
                 Asociaciones
